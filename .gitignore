@@ -1,0 +1,4 @@
+#gitignore
+
+/mnt/api-boletos/core/secrets.py
+**.pem

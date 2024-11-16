@@ -1,0 +1,1 @@
+from boleto_model import BoletoModel #type:ignore
