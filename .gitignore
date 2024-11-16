@@ -1,4 +1,5 @@
 #gitignore
 
-/mnt/api-boletos/core/secrets.py
+**ecrets.py
 **.pem
+**.github
